@@ -73,6 +73,3 @@ Learning Outcomes
 Author
 
 Mohan Sai Neelapu
-Author
-
-Mohan Sai
